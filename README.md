@@ -1,6 +1,5 @@
 ### Hi there,I'm Nimisha Kumari 👋
 
-- 🌱 I’m currently learning django. 
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: nimishavasistha@gmail.com
 
